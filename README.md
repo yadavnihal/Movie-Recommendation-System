@@ -93,14 +93,15 @@ If TF-IDF similarity is limited or unavailable, additional recommendations are g
 
 ## 📂 Project Structure
 
-Movie-Recommendation-System/
-│
-├── app.py # Streamlit Frontend
-├── main.py # FastAPI Backend
-├── requirements.txt
-├── README.md
-├── assets/ # Images / static files
-└── data/ # Datasets (optional)
+# Movie Recommendation System
+
+- **app.py** – Handles the Streamlit user interface (Frontend).
+- **main.py** – Runs the FastAPI server (Backend APIs).
+- **requirements.txt** – Contains all Python dependencies.
+- **README.md** – Project documentation file.
+- **assets/** – Stores images, posters, or static files.
+- **data/** – Contains datasets used for recommendation.
+
 
 
 ---
