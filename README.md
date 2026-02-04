@@ -115,16 +115,15 @@ cd Movie-Recommendation-System
 ## ▶️ Run Locally
 
 ###2. Install Dependencies
-```bash
 pip install -r requirements.txt
 
 ###3. Run Backend
-```bash
 uvicorn main:app --reload
 
 ###4. Run Frontend
-```bash
 streamlit run app.py
+
+```
 
 ## 🌐 Deployment
 
