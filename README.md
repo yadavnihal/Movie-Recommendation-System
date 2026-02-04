@@ -130,6 +130,7 @@ streamlit run app.py
 
 - **Frontend:** Streamlit Community Cloud  
 - **Backend:** Render / Railway / Localhost  
+- **Live App:** [Movie Recommendation System](https://movie-recommendation-system-tfidf-cosine.streamlit.app/)
 
 ---
 
